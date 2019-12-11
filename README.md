@@ -1,6 +1,6 @@
 # This simple puzzile app :
 
-![alt text](https://raw.githubusercontent.com/enghamzasalem/RodeYourSelfi/master/index.jpeg)
+![alt text](https://raw.githubusercontent.com/enghamzasalem/RodeYourSelfi/master/index.png)
 
 ---
 
